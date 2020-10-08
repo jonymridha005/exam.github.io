@@ -772,6 +772,10 @@ p {
   border: none;
   padding: 10px;
 }
+.subfooter-content-area .subscription input:focus{
+  border: none;
+  outline: none;
+}
 .subfooter-content-area .subscription button {
   background:#00aeff ;
   border: none;
